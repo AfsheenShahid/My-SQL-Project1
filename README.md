@@ -1,2 +1,2 @@
 # My-SQL-Project1
-Not ready for public. will be refined and this file will be updated as well.
+The code can be followed upto this final presentation. The raw data was processed and analysed using MySQL workbench and later the CSV files were transferred and connected in a meaningful schema in tableau for the visualisation of the project results. the summary of the results can be found in this ppt https://docs.google.com/presentation/d/1Bk6wpJOkqi8lIFDTfR9_3nu6Qpnte75mUblj_CyQKbs/edit#slide=id.g293834582dd_0_4
